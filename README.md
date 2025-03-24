@@ -3,3 +3,14 @@ A visualisation and an experimentation in learning REACT FLOW which helps us to 
 
 
 Hosting link :  https://glittering-fox-c9333c.netlify.app/
+
+
+
+for running it , use 
+'''
+npm install
+'''
+and 
+'''
+npm run dev 
+'''
